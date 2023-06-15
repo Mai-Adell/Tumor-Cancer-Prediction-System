@@ -10,8 +10,8 @@
 1- Download the CSV file.<br>
 2- Open PyCharm and make 7 classes in addition to the main. <br>
 3- Rename these classes by same names of the py files.<br>
-4- Clone each class into the right place in Pycharm.<br>
-5- Clone the main and then you are ready to run your own copy of the project <3.<br>
+4- Copy each class into the right place in Pycharm.<br>
+5- Copy the main and then you are ready to run your own copy of the project <3.<br>
 
 
 
